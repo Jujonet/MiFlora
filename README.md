@@ -39,3 +39,15 @@ sudo hcitool lescan
 
 # Settings
 Read through the file, everything is hard-coded but easy to understand
+
+
+
+
+Despues de meterle tantas cosas al script, las lista de soft se me quedo en:
+```
+sudo apt-get install python-whichcraft python-dateutil python-numpy python-matplotlib python-sh python-regex python-pandas python-path python-paramiko python-scp python-pip python-setuptools
+sudo pip install python-pushover
+
+```
+
+
